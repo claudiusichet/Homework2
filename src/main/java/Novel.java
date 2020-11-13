@@ -1,5 +1,5 @@
 public class Novel extends Book {
-    private String type;
+    private String type;//
 
     public String getType() {
         return type;
